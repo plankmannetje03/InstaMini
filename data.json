@@ -1,0 +1,72 @@
+[
+  {
+    "user": "Luna_vdB",
+    "likes": 154,
+    "comments": 12,
+    "text": "Een prachtige wandeling door het bos gemaakt vandaag! 🌲☀️",
+    "image": "https://picsum.photos/600/400?random=1"
+  },
+  {
+    "user": "TomVisuals",
+    "likes": 201,
+    "comments": 33,
+    "text": "Nieuwe lens getest – wat een verschil in scherpte! 📸",
+    "image": "https://picsum.photos/600/400?random=2"
+  },
+  {
+    "user": "EefjeEten",
+    "likes": 189,
+    "comments": 42,
+    "text": "Zelfgemaakte lasagne met verse basilicum 😋🍝",
+    "image": "https://picsum.photos/600/400?random=3"
+  },
+  {
+    "user": "TravelWithSven",
+    "likes": 305,
+    "comments": 51,
+    "text": "Zonsopgang boven de bergen in Oostenrijk. Adembenemend! 🏔️",
+    "image": "https://picsum.photos/600/400?random=4"
+  },
+  {
+    "user": "CodeKarel",
+    "likes": 98,
+    "comments": 14,
+    "text": "Vandaag mijn eerste webapp online gezet! 💻🔥",
+    "image": "https://picsum.photos/600/400?random=5"
+  },
+  {
+    "user": "MariekeMode",
+    "likes": 220,
+    "comments": 38,
+    "text": "Nieuwe herfstcollectie binnen – wat vinden jullie van deze trui? 🍂🧶",
+    "image": "https://picsum.photos/600/400?random=6"
+  },
+  {
+    "user": "DaanDrums",
+    "likes": 180,
+    "comments": 23,
+    "text": "Na maanden oefenen eindelijk dit ritme onder de knie! 🥁",
+    "image": "https://picsum.photos/600/400?random=7"
+  },
+  {
+    "user": "PetsByNoor",
+    "likes": 412,
+    "comments": 89,
+    "text": "Kijk eens naar deze snoet 😍🐶 #cutedog",
+    "image": "https://picsum.photos/600/400?random=8"
+  },
+  {
+    "user": "BramFitness",
+    "likes": 130,
+    "comments": 19,
+    "text": "Nieuwe persoonlijke record bij het squatten! 💪🏋️‍♂️",
+    "image": "https://picsum.photos/600/400?random=9"
+  },
+  {
+    "user": "EmmaArt",
+    "likes": 264,
+    "comments": 47,
+    "text": "Mijn nieuwste schilderij is eindelijk af. Wat vinden jullie? 🎨",
+    "image": "https://picsum.photos/600/400?random=10"
+  }
+]
